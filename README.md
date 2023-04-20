@@ -40,7 +40,6 @@ I am presently pursuing Btech in Computer Science Engineering(SCSE) From Vellore
 
 - Front-end development using *React.js*
 - Backend development using *Node js*
-- Functional programming with *JavaScript*
 - Robust *full-stack system design* implementation
 - Solving Data structure and algorithm questions in *C++*
 
