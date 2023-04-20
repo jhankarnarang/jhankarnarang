@@ -2,8 +2,7 @@
 
 *ABOUT ME*
 
-I am a coder by nature and a developer by passion, a tech enthusiast, an open-source contributor and mentor for those who want to learn programming, development and recent technologies.
-Being a developer of various Technical Forums and Connecting platforms.
+I am a coder, a tech enthusiast, an open-source contributor and mentor for those who want to learn programming, development and recent technologies.
 I am presently pursuing Btech in Computer Science Engineering(SCSE) From Vellore Institute of Technology, Bhopal.
 
 ## '' Having an urge to learn and Improve ''
